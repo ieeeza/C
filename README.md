@@ -1,1 +1,47 @@
 Projetos iniciais em C
+
+1. Calculadora Simples
+Descrição: Crie uma calculadora que possa realizar operações básicas como adição, subtração, multiplicação e divisão.
+Desafios: Implementar a lógica de operações matemáticas e aceitar entradas do usuário.
+2. Jogo de Adivinhação
+Descrição: Desenvolva um jogo em que o programa escolhe um número aleatório e o usuário tem que adivinhar.
+Desafios: Gerar números aleatórios, receber entradas do usuário e fornecer feedback.
+3. Conversor de Unidades
+Descrição: Crie um programa que converta diferentes unidades de medida, como metros para quilômetros, Celsius para Fahrenheit, etc.
+Desafios: Implementar a lógica de conversão e permitir que o usuário escolha qual conversão deseja realizar.
+4. Gerador de Tabuada
+Descrição: Desenvolva um programa que gere e exiba a tabuada de um número escolhido pelo usuário.
+Desafios: Usar loops para gerar a tabuada e formatar a saída.
+5. Verificador de Palíndromos
+Descrição: Crie um programa que verifique se uma palavra ou frase é um palíndromo.
+Desafios: Lidar com strings e manipulação de caracteres.
+6. Jogo da Velha
+Descrição: Desenvolva um jogo da velha que pode ser jogado por dois jogadores no mesmo computador.
+Desafios: Implementar a lógica do jogo, verificar condições de vitória e gerenciar o tabuleiro.
+7. Lista de Tarefas
+Descrição: Crie um programa que permita ao usuário adicionar, remover e listar tarefas.
+Desafios: Manipulação de arrays e gerenciar a entrada e saída de dados do usuário.
+8. Calculadora de Fatorial
+Descrição: Desenvolva um programa que calcule o fatorial de um número fornecido pelo usuário.
+Desafios: Implementar a lógica de cálculo do fatorial usando loops ou recursão.
+9. Gerador de Números Aleatórios
+Descrição: Crie um programa que gere e exiba uma lista de números aleatórios dentro de um intervalo especificado pelo usuário.
+Desafios: Usar a biblioteca stdlib.h para gerar números aleatórios e manipulação de arrays.
+10. Simulador de ATM
+Descrição: Desenvolva um programa que simule um caixa eletrônico, permitindo ao usuário verificar saldo, depositar e sacar dinheiro.
+Desafios: Implementar lógica de transações e gerenciar entradas do usuário.
+11. Conversor de Moedas
+Descrição: Crie um programa que converta valores entre diferentes moedas com base em uma taxa de câmbio fornecida pelo usuário.
+Desafios: Implementar a lógica de conversão e manipulação de entradas do usuário.
+12. Análise de Texto
+Descrição: Desenvolva um programa que analise um texto fornecido pelo usuário e forneça estatísticas como número de palavras, caracteres, etc.
+Desafios: Manipulação de strings e análise de texto.
+13. Simulador de Lançamento de Dados
+Descrição: Crie um programa que simule o lançamento de um dado e exiba o resultado.
+Desafios: Usar a biblioteca stdlib.h para gerar números aleatórios e gerenciar saídas.
+14. Calculadora de Média
+Descrição: Desenvolva um programa que calcule a média de uma lista de números fornecidos pelo usuário.
+Desafios: Manipulação de arrays e cálculo de média.
+15. Gerador de Senhas
+Descrição: Crie um programa que gere senhas aleatórias com base em critérios fornecidos pelo usuário (comprimento, inclusão de caracteres especiais, etc.).
+Desafios: Usar a biblioteca stdlib.h para gerar caracteres aleatórios e manipulação de strings.
