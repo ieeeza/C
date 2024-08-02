@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/cesar.filho/Desktop/C/1 - Calculadora Simples",
-      "program": "c:/Users/cesar.filho/Desktop/C/1 - Calculadora Simples/build/Debug/outDebug",
+      "cwd": "c:/Users/cesar.filho/Desktop/C/3 - Conversor de Unidades de Medida",
+      "program": "c:/Users/cesar.filho/Desktop/C/3 - Conversor de Unidades de Medida/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
