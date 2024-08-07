@@ -1,4 +1,4 @@
-Projetos iniciais em C
+# Projetos iniciais em C
 
 1. Calculadora Simples
 Descrição: Crie uma calculadora que possa realizar operações básicas como adição, subtração, multiplicação e divisão.
